@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -41,14 +41,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/devpedrovitor/devpedrovitor/output/snake.svg" alt="Snake animation" />
-
-###edin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
