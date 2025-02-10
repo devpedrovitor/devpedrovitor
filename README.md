@@ -33,11 +33,3 @@
 <div align="center">
   <img height="300" src="https://gifdb.com/images/high/deku-with-friends-at-the-beach-s383oejffwnurpr5.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devpedrovitor/devpedrovitor/output/snake.svg" alt="Snake animation" />
-
-###
