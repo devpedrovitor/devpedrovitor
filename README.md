@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é {Pedro Vitor}!
 
-Olá me chamo Pedro Vitor, tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza - ( Unifor ). Estou com meus estudos voltado para o Desenvolvimento Full-stack pela Digital College, e em busca de criar uma Game Engine Web.
+Olá me chamo Pedro Vitor, tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza - ( Unifor ). Estou com meus estudos em criar uma Game Engine Web.
 
 Fora isso meus hobbies são vídeo-games, boxe, gym e gosto bastante de pizza 🍕😋.
 
